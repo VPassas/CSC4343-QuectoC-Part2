@@ -1,4 +1,4 @@
-# CSC4343 - QuectoC Lexical Scanner Part 2 - Evangelos Passas
+# CSC4343 - QuectoC Syntax Scanner Part 2 - Evangelos Passas
 
 
 ## BUILD (on bash)
